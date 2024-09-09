@@ -1,0 +1,29 @@
+[
+    {
+        "breedId" : "B101",
+        "breedName" : "Golden Retriever",
+        "description" : "Friendly, intelligent and devoted. Great Family Dog.",
+        "size" : "Large",
+        "lifespan" : "10-12 years",
+        "origin" : "Scotland",
+        "imageUrl" : "https://dogs.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    },
+    {
+        "breedId" : "B102",
+        "breedName" : "Bulldog",
+        "description" : "Willful and Intelligent. Bulldogs are friendly and courageous.",
+        "size" : "Medium",
+        "lifespan" : "8-10 years",
+        "origin" : "England",
+        "imageUrl" : "https://dog.ceo/api/img/mastiff-bull/n02108422_844.jpgg"
+    },
+    {
+        "breedId": "B103",
+        "breedName": "German Shepherd",
+        "description": "Confident, courageous, and smart. Excellent working dog.",
+        "size": "Large",
+        "lifespan": "9-13 years",
+        "origin": "Germany",
+        "imageUrl": "https://dog.ceo/api/img/germanshepherd/n02106662_6461.jpg"
+    }
+]
